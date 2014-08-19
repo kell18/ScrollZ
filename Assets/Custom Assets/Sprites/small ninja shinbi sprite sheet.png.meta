@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: ab37c0ffa415f474682d8d8b6f50a352
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: small ninja shinbi sprite sheet
+    21300002: small ninja shinbi sprite sheet_0
+    21300004: small ninja shinbi sprite sheet_1
+    21300006: small ninja shinbi sprite sheet_2
+    21300008: small ninja shinbi sprite sheet_3
+    21300010: small ninja shinbi sprite sheet_4
+    21300012: small ninja shinbi sprite sheet_5
+    21300014: small ninja shinbi sprite sheet_6
+    21300016: small ninja shinbi sprite sheet_7
+    21300018: small ninja shinbi sprite sheet_8
+    21300020: small ninja shinbi sprite sheet_9
+    21300022: small ninja shinbi sprite sheet_10
+    21300024: small ninja shinbi sprite sheet_11
+    21300026: small ninja shinbi sprite sheet_12
+    21300028: small ninja shinbi sprite sheet_13
+    21300030: small ninja shinbi sprite sheet_14
+    21300032: small ninja shinbi sprite sheet_15
+    21300034: small ninja shinbi sprite sheet_16
+    21300036: small ninja shinbi sprite sheet_17
+    21300038: small ninja shinbi sprite sheet_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: BlackBerry
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: small ninja shinbi sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 71
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 456
+        width: 23
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 415
+        width: 66
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 75
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 76
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 414
+        width: 75
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 412
+        width: 69
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 316
+        width: 98
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 316
+        width: 75
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 316
+        width: 85
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 316
+        width: 81
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 72
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 218
+        width: 80
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 91
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 218
+        width: 71
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 216
+        width: 85
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 76
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 117
+        width: 68
+        height: 99
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: small ninja shinbi sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 115
+        width: 72
+        height: 101
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
