@@ -4,7 +4,7 @@ using System.Collections;
 public class PlayerFollowBehaviour : MonoBehaviour {
 	public Transform Target;
 	
-	// Update is called once per frame
+	// Update position this object same Target object.
 	void Update () {
 		var selPos = transform.position;
 		selPos.x = Target.position.x;

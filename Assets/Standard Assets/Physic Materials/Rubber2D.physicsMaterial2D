@@ -6,5 +6,5 @@ PhysicsMaterial2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Rubber2D
-  friction: .699999988
-  bounciness: .300000012
+  friction: 3
+  bounciness: .100000001

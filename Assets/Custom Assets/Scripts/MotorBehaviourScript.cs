@@ -2,40 +2,39 @@
 using System.Collections;
 
 public class MotorBehaviourScript : MonoBehaviour {
-	public WheelJoint2D DrivingWheel;	
-	public float acceleration;
+	public float Acceleration;
+	public float MaxSpeed;
+	public WheelJoint2D DrivingWheel;
+	public WheelJoint2D DrivenWheel;
 	public BoxCollider2D GasPedal;
 	public BoxCollider2D BrakePedal;
-
-	// Use this for initialization
-	void Start () {
-	}
 	
-	// Update is called once per frame
-	void Update () {
-		CheckKeyboardInput ();
+	// Update is called once per few frames
+	void FixedUpdate () {
+		HandleInput ();
 	}
 
-	private void CheckKeyboardInput() {
+	/// <summary>
+	/// Handles the input from keyboard and mouse click over gas/brake pedals.
+	/// </summary>
+	private void HandleInput() {
 		float inputVect = Input.GetAxis ("Horizontal");
 		JointMotor2D motor = DrivingWheel.motor;
 		bool isUseMotor = true;
 	
 		if (GasIsPressed()) {
-			motor.motorSpeed = motor.maxMotorTorque - motor.motorSpeed > 1 ? 
-				motor.motorSpeed + acceleration
-				: motor.maxMotorTorque;
+			motor.motorSpeed = MaxSpeed - motor.motorSpeed > 1 ? 
+				(motor.motorSpeed + Acceleration) : MaxSpeed;
 		} else if (BrakeIsPressed()) {
 			motor.motorSpeed = 0;
 		} else {
-			if (motor.motorSpeed > acceleration) {
-				motor.motorSpeed -= Mathf.Pow(acceleration, 2);
+			if (motor.motorSpeed > Acceleration) {
+				motor.motorSpeed -= Acceleration;
 			} else {
 				motor.motorSpeed = 0;
 				isUseMotor = false;
 			}
 		}
-
 		DrivingWheel.motor = motor;
 		DrivingWheel.useMotor = isUseMotor;
 	}
@@ -44,15 +43,10 @@ public class MotorBehaviourScript : MonoBehaviour {
 		bool isPressed = false;
 		Vector3 mp = Camera.main.ScreenToWorldPoint (Input.mousePosition);
 		Vector2 clickPos = new Vector2 (mp.x, mp.y);
-
-		if (Input.GetMouseButton (0)) {
-			if (GasPedal.OverlapPoint (clickPos)) {
-				Debug.Log ("Pedal!");
-				isPressed = true;
-			}
-		}
 		if (Input.GetAxis ("Horizontal") > 0.01) {
-			Debug.Log ("Key!");
+			isPressed = true;
+		}
+		else if (Input.GetMouseButton (0) && GasPedal.OverlapPoint (clickPos)) {
 			isPressed = true;
 		}
 		return isPressed;
@@ -62,13 +56,10 @@ public class MotorBehaviourScript : MonoBehaviour {
 		bool isPressed = false;
 		Vector3 mp = Camera.main.ScreenToWorldPoint (Input.mousePosition);
 		Vector2 clickPos = new Vector2 (mp.x, mp.y);
-
-		if (Input.GetMouseButtonDown (0)) {
-			if (BrakePedal.OverlapPoint (clickPos)) {
-				isPressed = true;
-			}
-		}
 		if (Input.GetAxis ("Horizontal") < -0.01) {
+			isPressed = true;
+		} 
+		else if (Input.GetMouseButtonDown (0) && BrakePedal.OverlapPoint (clickPos)) {
 			isPressed = true;
 		}
 		return isPressed;
