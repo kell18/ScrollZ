@@ -19,24 +19,28 @@ public class MotorBehaviourScript : MonoBehaviour {
 	/// </summary>
 	private void HandleInput() {
 		float inputVect = Input.GetAxis ("Horizontal");
-		JointMotor2D motor = DrivingWheel.motor;
-		bool isUseMotor = true;
+		JointMotor2D driving = DrivingWheel.motor;
+		JointMotor2D driven = DrivenWheel.motor;
+		bool isDrivingUseMotor = true;
+		bool isDrivenUseMotor = true;
 	
 		if (GasIsPressed()) {
-			motor.motorSpeed = MaxSpeed - motor.motorSpeed > 1 ? 
-				(motor.motorSpeed + Acceleration) : MaxSpeed;
+			driving.motorSpeed = MaxSpeed - driving.motorSpeed > 1 ? 
+				(driving.motorSpeed + Acceleration) : MaxSpeed;
 		} else if (BrakeIsPressed()) {
-			motor.motorSpeed = 0;
+			driving.motorSpeed = 0;
+			driven.motorSpeed = 0;
 		} else {
-			if (motor.motorSpeed > Acceleration) {
-				motor.motorSpeed -= Acceleration;
+			if (driving.motorSpeed > Acceleration) {
+				driving.motorSpeed -= Acceleration;
 			} else {
-				motor.motorSpeed = 0;
-				isUseMotor = false;
+				driving.motorSpeed = 0;
+				isDrivingUseMotor = false;
 			}
+			isDrivenUseMotor = false;
 		}
-		DrivingWheel.motor = motor;
-		DrivingWheel.useMotor = isUseMotor;
+		DrivingWheel.motor = driving;
+		DrivingWheel.useMotor = isDrivingUseMotor;
 	}
 
 	private bool GasIsPressed() {
@@ -59,7 +63,7 @@ public class MotorBehaviourScript : MonoBehaviour {
 		if (Input.GetAxis ("Horizontal") < -0.01) {
 			isPressed = true;
 		} 
-		else if (Input.GetMouseButtonDown (0) && BrakePedal.OverlapPoint (clickPos)) {
+		else if (Input.GetMouseButton (0) && BrakePedal.OverlapPoint (clickPos)) {
 			isPressed = true;
 		}
 		return isPressed;
