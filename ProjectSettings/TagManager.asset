@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
   tags:
+  - Enemy
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -12,9 +13,9 @@ TagManager:
   Builtin Layer 5: UI
   Builtin Layer 6: 
   Builtin Layer 7: 
-  User Layer 8: 
-  User Layer 9: 
-  User Layer 10: 
+  User Layer 8: Player
+  User Layer 9: NotCollidePlayer
+  User Layer 10: Ground
   User Layer 11: 
   User Layer 12: 
   User Layer 13: 
@@ -40,4 +41,16 @@ TagManager:
   - name: Default
     userID: 0
     uniqueID: 0
+    locked: 0
+  - name: AcrionField
+    userID: 1
+    uniqueID: 3941668459
+    locked: 0
+  - name: Background
+    userID: 3
+    uniqueID: 120846509
+    locked: 0
+  - name: Foreground
+    userID: 2
+    uniqueID: 4021505563
     locked: 0

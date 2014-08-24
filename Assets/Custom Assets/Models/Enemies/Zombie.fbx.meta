@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 0e4b783646f18954ebfb16540593f685
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Anime Studio Camera
+    100002: B1
+    100004: B10
+    100006: B11
+    100008: B12
+    100010: B13
+    100012: B14
+    100014: B15
+    100016: B16
+    100018: B2
+    100020: B3
+    100022: B4
+    100024: B5
+    100026: B6
+    100028: B7
+    100030: B8
+    100032: B9
+    100034: Foot1.png
+    100036: Foot2.png
+    100038: Hand.png
+    100040: Hand2.png
+    100042: Head.png
+    100044: Layer 9
+    100046: tongue.png
+    100048: //RootNode
+    100050: Zombie1.png
+    400000: Anime Studio Camera
+    400002: B1
+    400004: B10
+    400006: B11
+    400008: B12
+    400010: B13
+    400012: B14
+    400014: B15
+    400016: B16
+    400018: B2
+    400020: B3
+    400022: B4
+    400024: B5
+    400026: B6
+    400028: B7
+    400030: B8
+    400032: B9
+    400034: Foot1.png
+    400036: Foot2.png
+    400038: Hand.png
+    400040: Hand2.png
+    400042: Head.png
+    400044: Layer 9
+    400046: tongue.png
+    400048: //RootNode
+    400050: Zombie1.png
+    4300000: Foot2.png
+    4300002: tongue.png
+    4300004: Head.png
+    4300006: Hand2.png
+    4300008: Foot1.png
+    4300010: Zombie1.png
+    4300012: Hand.png
+    7400000: Mainline
+    9500000: //RootNode
+    13700000: Foot1.png
+    13700002: Foot2.png
+    13700004: Hand.png
+    13700006: Hand2.png
+    13700008: Head.png
+    13700010: tongue.png
+    13700012: Zombie1.png
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Layer 9
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B14
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B15
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B8
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B9
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B5
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B6
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B7
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B16
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: B10
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Zombie(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Anime Studio Camera
+      position: {x: 0, y: 0, z: 1.73210001}
+      rotation: {x: .00929927826, y: -.709312975, z: .00935921818, w: .704770207}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Layer 9
+      position: {x: 0, y: -.00819499977, z: 1.89999992e-05}
+      rotation: {x: -.00161707075, y: 0, z: -0, w: .999998689}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Foot1.png
+      position: {x: .0264929999, y: -.437615007, z: -.000264000002}
+      rotation: {x: 0, y: 0, z: .0122531932, w: .999924958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot2.png
+      position: {x: .397083998, y: -.535848975, z: .000907999987}
+      rotation: {x: 0, y: 0, z: .0109007843, w: .999940574}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand.png
+      position: {x: -.182135001, y: .522912025, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.08722794, z: 1}
+      transformModified: 1
+    - name: Hand2.png
+      position: {x: -.302839994, y: .717943013, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head.png
+      position: {x: .0387919992, y: .823449969, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: .932286024, z: 1}
+      transformModified: 1
+    - name: tongue.png
+      position: {x: -.115048997, y: .535347998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Zombie1.png
+      position: {x: .178498983, y: .564068973, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B1
+      position: {x: .222894982, y: .0439929999, z: 0}
+      rotation: {x: 2.28913277e-11, y: 1.87314331e-10, z: -.697095931, w: .716977894}
+      scale: {x: 1.00000155, y: 1, z: .999999583}
+      transformModified: 1
+    - name: B11
+      position: {x: .0577730015, y: -.036208, z: 0}
+      rotation: {x: 6.55996091e-12, y: -1.62401828e-11, z: .965980768, w: .258614033}
+      scale: {x: .999999523, y: .999999821, z: .999999344}
+      transformModified: 1
+    - name: B12
+      position: {x: -.454449981, y: -.0525669977, z: 0}
+      rotation: {x: -1.78056347e-10, y: 7.10737441e-11, z: .195094064, w: .980784595}
+      scale: {x: .999997973, y: 1.00000167, z: .999999583}
+      transformModified: 1
+    - name: B13
+      position: {x: -.462451011, y: -.00124600006, z: 0}
+      rotation: {x: -1.36102782e-10, y: 2.66325347e-11, z: -.738351345, w: .674416304}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999702}
+      transformModified: 1
+    - name: B14
+      position: {x: .101304002, y: .0289169997, z: 0}
+      rotation: {x: -2.19041688e-10, y: -4.78904971e-11, z: .997991085, w: -.063354373}
+      scale: {x: .999999583, y: 1.00000036, z: .999999344}
+      transformModified: 1
+    - name: B15
+      position: {x: -.426887006, y: -.018677, z: 0}
+      rotation: {x: -.55205214, y: .181852117, z: .130441993, w: .803214312}
+      scale: {x: 1.00000048, y: .999999166, z: .999999583}
+      transformModified: 1
+    - name: B16
+      position: {x: -.405292004, y: .0191399995, z: 0}
+      rotation: {x: -1.1319521e-10, y: 3.05419023e-10, z: -.678138018, w: .734934688}
+      scale: {x: .999999464, y: .999999225, z: .999999702}
+      transformModified: 1
+    - name: B2
+      position: {x: .229545996, y: .325658977, z: 0}
+      rotation: {x: 1.0200453e-10, y: 2.2718373e-10, z: -.697020292, w: .717051446}
+      scale: {x: 1, y: .999999642, z: .999999583}
+      transformModified: 1
+    - name: B3
+      position: {x: -.222972006, y: .000123999998, z: 0}
+      rotation: {x: -.000473838852, y: .000623537053, z: -.0145820426, w: .999893427}
+      scale: {x: 1.00000036, y: .999999762, z: .999999344}
+      transformModified: 1
+    - name: B4
+      position: {x: -.235944986, y: -.00152299996, z: 0}
+      rotation: {x: 2.51764887e-10, y: 1.08873931e-10, z: .108790115, w: .994064808}
+      scale: {x: 1.00000048, y: .999999762, z: .999999583}
+      transformModified: 1
+    - name: B5
+      position: {x: -.0667689964, y: -.0606830008, z: 0}
+      rotation: {x: -1.4117138e-11, y: -1.66475209e-10, z: .649626672, w: .76025337}
+      scale: {x: 1.00000072, y: .999999523, z: .999999583}
+      transformModified: 1
+    - name: B6
+      position: {x: -.326573968, y: .0152589995, z: 0}
+      rotation: {x: -1.00674954e-11, y: 9.68474329e-11, z: .07080286, w: .997490406}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999702}
+      transformModified: 1
+    - name: B7
+      position: {x: -.252503008, y: .0158430003, z: 0}
+      rotation: {x: -2.86210708e-11, y: -4.76297925e-11, z: .0074746157, w: .999972045}
+      scale: {x: 1, y: 1.00000048, z: .999999464}
+      transformModified: 1
+    - name: B8
+      position: {x: -.148693994, y: -.0778170004, z: 0}
+      rotation: {x: -.000335590797, y: .000555510691, z: .210814789, w: .97752583}
+      scale: {x: 1.00000107, y: 1.00000024, z: .999999583}
+      transformModified: 1
+    - name: B9
+      position: {x: -.365996957, y: -.0174729992, z: 0}
+      rotation: {x: -2.36553971e-10, y: 3.84200102e-11, z: .0489147492, w: .99880296}
+      scale: {x: 1.00000012, y: .999999344, z: .999999702}
+      transformModified: 1
+    - name: B10
+      position: {x: -.246328995, y: -.000273999962, z: 0}
+      rotation: {x: -1.12275265e-10, y: -2.06914885e-11, z: .143440947, w: .989658892}
+      scale: {x: 1.0000006, y: .999998748, z: .999999464}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
