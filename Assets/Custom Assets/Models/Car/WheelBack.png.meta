@@ -1,8 +1,8 @@
 fileFormatVersion: 2
-guid: 1962dc8e9ddc1ad41b080c84e7324fb0
+guid: 9c7e2d62a07e4234597f05badc3dd11c
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Background
+    21300000: WheelBack
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50

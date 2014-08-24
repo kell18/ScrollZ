@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: e7acfe7efc1c768488df19f2e516f40e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Anime Studio Camera
+    100002: B1
+    100004: B1 1
+    100006: B1 2
+    100008: B1 3
+    100010: B1 4
+    100012: B2
+    100014: B2 1
+    100016: B2 2
+    100018: B2 3
+    100020: B2 4
+    100022: B3
+    100024: B3 1
+    100026: B3 2
+    100028: B3 3
+    100030: B3 4
+    100032: B4
+    100034: Foot1
+    100036: Foot1.png
+    100038: Foot2
+    100040: Foot2.png
+    100042: Hand
+    100044: Hand.png
+    100046: Hand2
+    100048: Hand3.png
+    100050: Zombie
+    100052: Zombie.png
+    100054: //RootNode
+    100056: ZombieBone
+    100058: ZombieBonesGroup
+    400000: Anime Studio Camera
+    400002: B1
+    400004: B1 1
+    400006: B1 2
+    400008: B1 3
+    400010: B1 4
+    400012: B2
+    400014: B2 1
+    400016: B2 2
+    400018: B2 3
+    400020: B2 4
+    400022: B3
+    400024: B3 1
+    400026: B3 2
+    400028: B3 3
+    400030: B3 4
+    400032: B4
+    400034: Foot1
+    400036: Foot1.png
+    400038: Foot2
+    400040: Foot2.png
+    400042: Hand
+    400044: Hand.png
+    400046: Hand2
+    400048: Hand3.png
+    400050: Zombie
+    400052: Zombie.png
+    400054: //RootNode
+    400056: ZombieBone
+    400058: ZombieBonesGroup
+    4300000: Hand3.png
+    4300002: Foot2.png
+    4300004: Zombie.png
+    4300006: Foot1.png
+    4300008: Hand.png
+    7400000: Mainline
+    9500000: //RootNode
+    13700000: Foot1.png
+    13700002: Foot2.png
+    13700004: Hand.png
+    13700006: Hand3.png
+    13700008: Zombie.png
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
