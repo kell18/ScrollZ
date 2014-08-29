@@ -13,13 +13,17 @@ public class WheelRotationBehaviour : MonoBehaviour {
 	/// Update rotation of sprite same way this circle collider spins.
 	/// </summary>
 	void FixedUpdate () {
-		RotateSprite ();
+		//Debug.Log (gameObject.name + transform.position);
+		RotateAndMoveSprite ();
 	}
 
-	void RotateSprite ()
+	void RotateAndMoveSprite ()
 	{
-		var spriteRotation = sprite.transform.rotation;
-		spriteRotation = transform.rotation;
-		sprite.transform.rotation = spriteRotation;
+		var spriteRot = sprite.transform.rotation;
+		var spritePos = sprite.transform.position;
+		spriteRot = transform.rotation;
+		spritePos = transform.position;
+		sprite.transform.rotation = spriteRot;
+		sprite.transform.position = spritePos;
 	}
 }

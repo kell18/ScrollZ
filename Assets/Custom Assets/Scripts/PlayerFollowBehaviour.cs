@@ -3,12 +3,15 @@ using System.Collections;
 
 public class PlayerFollowBehaviour : MonoBehaviour {
 	public Transform Target;
+	public float MinYPos = -17.5f;
 	
 	// Update position this object same Target object.
-	void Update () {
-		var selPos = transform.position;
-		selPos.x = Target.position.x;
-		selPos.y = Target.position.y;
-		transform.position = selPos;
+	void FixedUpdate () {
+		var selfPos = transform.position;
+		selfPos.x = Target.position.x;
+		if (Target.position.y > MinYPos) {
+			selfPos.y = Target.position.y;
+		} 
+		transform.position = selfPos;
 	}
 }
