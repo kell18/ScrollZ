@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: d9949b3793bb5da46bac04abc7204b21
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: toon
+    21300002: toon_0
+    21300004: toon_1
+    21300006: toon_2
+    21300008: toon_3
+    21300010: toon_4
+    21300012: toon_5
+    21300014: toon_6
+    21300016: toon_7
+    21300018: toon_8
+    21300020: toon_9
+    21300022: toon_10
+    21300024: toon_11
+    21300026: toon_12
+    21300028: toon_13
+    21300030: toon_14
+    21300032: toon_15
+    21300034: toon_16
+    21300036: toon_17
+    21300038: toon_18
+    21300040: toon_19
+    21300042: toon_20
+    21300044: toon_21
+    21300046: toon_22
+    21300048: toon_23
+    21300050: toon_24
+    21300052: toon_25
+    21300054: toon_26
+    21300056: toon_27
+    21300058: toon_28
+    21300060: toon_29
+    21300062: toon_30
+    21300064: toon_31
+    21300066: toon_32
+    21300068: toon_33
+    21300070: toon_34
+    21300072: toon_35
+    21300074: toon_36
+    21300076: toon_37
+    21300078: toon_38
+    21300080: toon_39
+    21300082: toon_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: toon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 380
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_17
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 280
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_27
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_28
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_29
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 180
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_38
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_39
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 80
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toon_40
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

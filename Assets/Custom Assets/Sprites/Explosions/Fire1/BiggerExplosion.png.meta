@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: be758b4563f1b9048a15b30620403a8f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BiggerExplosion
+    21300002: BiggerExplosion_0
+    21300004: BiggerExplosion_1
+    21300006: BiggerExplosion_2
+    21300008: BiggerExplosion_3
+    21300010: BiggerExplosion_4
+    21300012: BiggerExplosion_5
+    21300014: BiggerExplosion_6
+    21300016: BiggerExplosion_7
+    21300018: BiggerExplosion_8
+    21300020: BiggerExplosion_9
+    21300022: BiggerExplosion_10
+    21300024: BiggerExplosion_11
+    21300026: BiggerExplosion_12
+    21300028: BiggerExplosion_13
+    21300030: BiggerExplosion_14
+    21300032: BiggerExplosion_15
+    21300034: BiggerExplosion_16
+    21300036: BiggerExplosion_17
+    21300038: BiggerExplosion_18
+    21300040: BiggerExplosion_19
+    21300042: BiggerExplosion_21
+    21300044: BiggerExplosion_22
+    21300046: BiggerExplosion_23
+    21300048: BiggerExplosion_24
+    21300050: BiggerExplosion_25
+    21300052: BiggerExplosion_26
+    21300054: BiggerExplosion_27
+    21300056: BiggerExplosion_28
+    21300058: BiggerExplosion_29
+    21300060: BiggerExplosion_30
+    21300062: BiggerExplosion_31
+    21300064: BiggerExplosion_32
+    21300066: BiggerExplosion_33
+    21300068: BiggerExplosion_35
+    21300070: BiggerExplosion_37
+    21300072: BiggerExplosion_38
+    21300074: BiggerExplosion_39
+    21300076: BiggerExplosion_40
+    21300078: BiggerExplosion_41
+    21300080: BiggerExplosion_42
+    21300082: BiggerExplosion_44
+    21300084: BiggerExplosion_44
+    21300086: BiggerExplosion_45
+    21300088: BiggerExplosion_46
+    21300090: BiggerExplosion_47
+    21300092: BiggerExplosion_48
+    21300094: BiggerExplosion_49
+    21300096: BiggerExplosion_48
+    21300098: BiggerExplosion_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BiggerExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 830
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 820
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 808
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 803
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 801
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 801
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 800
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 798
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 798
+        width: 178
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 796
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 597
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 595
+        width: 186
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 595
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 594
+        width: 190
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 594
+        width: 192
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 593
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 592
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 592
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 592
+        width: 198
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 592
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 397
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 402
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 407
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 409
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 218
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 225
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 225
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 225
+        width: 153
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 230
+        width: 147
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 230
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 230
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 354
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 231
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 36
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 44
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 44
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 44
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 46
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 48
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 237
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 402
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 396
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 394
+        width: 169
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 392
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 400
+        width: 159
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 415
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 37
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 38
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

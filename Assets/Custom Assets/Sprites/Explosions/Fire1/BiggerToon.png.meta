@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: bf88d1ba29e0fe042b0c76ebe8517111
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BiggerToon
+    21300002: BiggerToon_0
+    21300004: BiggerToon_1
+    21300006: BiggerToon_2
+    21300008: BiggerToon_3
+    21300010: BiggerToon_4
+    21300012: BiggerToon_5
+    21300014: BiggerToon_6
+    21300016: BiggerToon_7
+    21300018: BiggerToon_8
+    21300020: BiggerToon_9
+    21300022: BiggerToon_10
+    21300024: BiggerToon_11
+    21300026: BiggerToon_12
+    21300028: BiggerToon_13
+    21300030: BiggerToon_14
+    21300032: BiggerToon_15
+    21300034: BiggerToon_16
+    21300036: BiggerToon_17
+    21300038: BiggerToon_18
+    21300040: BiggerToon_19
+    21300042: BiggerToon_20
+    21300044: BiggerToon_21
+    21300046: BiggerToon_22
+    21300048: BiggerToon_23
+    21300050: BiggerToon_24
+    21300052: BiggerToon_25
+    21300054: BiggerToon_26
+    21300056: BiggerToon_27
+    21300058: BiggerToon_28
+    21300060: BiggerToon_29
+    21300062: BiggerToon_30
+    21300064: BiggerToon_31
+    21300066: BiggerToon_32
+    21300068: BiggerToon_33
+    21300070: BiggerToon_34
+    21300072: BiggerToon_35
+    21300074: BiggerToon_36
+    21300076: BiggerToon_37
+    21300078: BiggerToon_38
+    21300080: BiggerToon_39
+    21300082: BiggerToon_40
+    21300084: BiggerToon_41
+    21300086: BiggerToon_42
+    21300088: BiggerToon_43
+    21300090: BiggerToon_44
+    21300092: BiggerToon_45
+    21300094: BiggerToon_46
+    21300096: BiggerToon_47
+    21300098: BiggerToon_48
+    21300100: BiggerToon_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BiggerToon_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_6
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_7
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_8
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 904
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_15
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_16
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_17
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_18
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 684
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_26
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_28
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 464
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_35
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_36
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_37
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_38
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 244
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_44
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_45
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_46
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_47
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_48
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BiggerToon_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 24
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

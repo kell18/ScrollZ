@@ -5,29 +5,31 @@ public class AccelerationTracesEmitter : MonoBehaviour {
 	public ParticleSystem Traces;
 	public GroundedChecker GroundCheck;
 	public int MaxEmissionRate = 500;
-	public float AccelerationThreshold = 10;
+	public float EmissionFactor = 0.2f;
+	public float AccelerationThreshold = 10f;
 
 	private Vector2 acceleration { get; set; }
 	private Vector2 lastVelocity { get; set; }
 
 	void Start () {
-		Traces.Pause ();
+		Traces.Stop ();
 		lastVelocity = new Vector2 ();
 	}
 
 	void FixedUpdate () {
-		TryToEmitTraces ();
+		if (GroundCheck.IsGrounded) {
+			EmitTraces ();
+		}
 	}
 	
-	private void TryToEmitTraces() {
-		bool isGrounded = GroundCheck.IsGrounded;
+	private void EmitTraces() {
 		acceleration = (rigidbody2D.velocity - lastVelocity) / Time.fixedDeltaTime;
 		lastVelocity = rigidbody2D.velocity;
-		if (acceleration.x > AccelerationThreshold && isGrounded) {
-			Traces.Emit((int)acceleration.x);
+		if (acceleration.x > AccelerationThreshold) {
+			Traces.Emit((int)(acceleration.x * EmissionFactor));
 		}
 		else {
-			Traces.Pause ();
+			Traces.Stop();
 		}
 	}
 }
