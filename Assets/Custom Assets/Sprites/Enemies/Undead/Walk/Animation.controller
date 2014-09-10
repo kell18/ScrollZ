@@ -149,7 +149,7 @@ Transition:
   m_Conditions:
   - m_ConditionMode: 3
     m_ConditionEvent: StrikeForce
-    m_EventTreshold: .100000001
+    m_EventTreshold: 0
     m_ExitTime: .899999976
   - m_ConditionMode: 4
     m_ConditionEvent: StrikeForce
@@ -331,9 +331,6 @@ StateMachine:
   m_ChildStateMachinePosition: []
   m_OrderedTransitions:
     data:
-      first: {fileID: 110256133}
-      second: []
-    data:
       first: {fileID: 0}
       second:
       - {fileID: 110141419}
@@ -352,6 +349,9 @@ StateMachine:
       - {fileID: 110100000}
     data:
       first: {fileID: 110212357}
+      second: []
+    data:
+      first: {fileID: 110256133}
       second: []
   m_MotionSetCount: 1
   m_AnyStatePosition: {x: 276, y: -180, z: 0}
