@@ -1,6 +1,7 @@
 Постапокалиптический скроллер
 ============================
 
+### [Демо](http://bk0606.github.io/some-projects/PostapocalipticScroller.html)
 
 ###TODO
 
