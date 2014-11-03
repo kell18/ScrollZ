@@ -44,7 +44,8 @@ public class DismemberedObject : MonoBehaviour {
 					direction.y += Random.Range (-0.1F, 0.3F);
 					child.gameObject.SetActive(true);
 					child.rigidbody2D.angularVelocity += Random.value * AngularVelMultiplier;
-					child.rigidbody2D.AddForce (direction * (strikeForce * Random.value*5) * DismemberForceMultiplier);
+					child.rigidbody2D.AddForce (direction * (strikeForce * Random.value*5) * 
+									DismemberForceMultiplier);
 				}
 			}
 		}
