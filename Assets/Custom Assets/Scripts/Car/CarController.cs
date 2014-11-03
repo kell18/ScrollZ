@@ -48,7 +48,8 @@ public class CarController : MonoBehaviour {
 		
 		if (GasIsPressed()) {
 			driving.motorSpeed = driving.motorSpeed - ComputeAcceleration(driving.motorSpeed);
-			driving.motorSpeed = driving.motorSpeed < -MaxAcceleration ? -MaxAcceleration : driving.motorSpeed;
+			driving.motorSpeed = driving.motorSpeed < -MaxAcceleration ? 
+						-MaxAcceleration : driving.motorSpeed;
 			if (AccelGroundCheck.IsGrounded && CurrentSpeed < MaxSpeed) {
 				rigidbody2D.AddForce(Right * ExtraAcceleration/4f);
 				ExtraAccelPoint.rigidbody2D.AddForce(Right * ExtraAcceleration/4f*3F);
