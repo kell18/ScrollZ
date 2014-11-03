@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 /// <summary>
-/// Dismembers the object by the child objects
+/// Dismembers the object on hit by the Limbs array
 /// </summary>
 public class DismemberedObject : MonoBehaviour {
 	public Transform[] Limbs;
