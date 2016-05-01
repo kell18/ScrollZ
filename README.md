@@ -1,4 +1,4 @@
-Постапокалиптический скроллер
+Постапокалиптический скроллер
 ============================
 
 ### [Демо](http://kell18.github.io/some-projects/PostapocalipticScroller.html)
