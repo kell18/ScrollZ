@@ -33,7 +33,7 @@
 ###Тематика игры
 Решили сделать нечто похожее на [Earn to Die](https://play.google.com/store/apps/details?id=com.notdoppler.earntodie) или [Zombie Road Trip](https://play.google.com/store/apps/details?id=com.noodlecake.zombieroadtrip)
 
-<br />
+<br />
 
 
 ###Работа с Unity
@@ -64,7 +64,7 @@
 
 #####Клонирование репозитория на комп
 1. В командной строке в том месте где хотим разместить проект                              
-`git clone https://github.com/bk0606/PostapocalypticScroller.git`
+`git clone https://github.com/bk0606/PostapocalypticScroller.git`
 2. Обязательно проверьте чтобы в локальном проекте был файл .gitignore (если его там нет - создать ручками и содержание вставить из файла на github.com)
 
 <br />
