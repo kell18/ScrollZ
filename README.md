@@ -1,5 +1,6 @@
-Постапокалиптический скроллер
+PScroll
 ============================
+Игра на Unity3D в жанре постапокалиптический скроллер.
 
 ### [Demo (Firefox, Opera or Internet Explorer.)](http://kell18.github.io/some-projects/PostapocalipticScroller.html)
 
