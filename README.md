@@ -1,7 +1,7 @@
 Постапокалиптический скроллер
 ============================
 
-### [Демо](http://kell18.github.io/some-projects/PostapocalipticScroller.html)
+### [Demo (Firefox, Opera or Internet Explorer.)](http://kell18.github.io/some-projects/PostapocalipticScroller.html)
 
 ###TODO
 
